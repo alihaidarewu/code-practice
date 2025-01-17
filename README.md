@@ -1,1 +1,1 @@
-This repository contains my practice projects and code snippets from the MERN full-stack development course at Ostad. It includes exercises and projects using MongoDB, Express.js, React.js, and Node.js, along with foundational front-end tools and technologies.
+This repository contains my practice projects and code snippets.
