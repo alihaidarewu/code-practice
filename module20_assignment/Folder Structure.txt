@@ -1,0 +1,17 @@
+/portfolio-api
+  /controllers
+    authController.js
+    portfolioController.js
+  /models
+    User.js
+    Portfolio.js
+  /routes
+    authRoutes.js
+    portfolioRoutes.js
+  /middleware
+    authMiddleware.js
+  /config
+    db.js
+    jwtSecret.js
+  server.js
+  package.json
